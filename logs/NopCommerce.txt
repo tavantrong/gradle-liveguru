@@ -1,0 +1,93 @@
+[INFO ] [2023-03-15 22:46:11,501] Validate - Step 01: Open Register Link at Home Page
+[INFO ] [2023-03-15 22:46:12,102] Validate - Step 02: Click to Register button
+[INFO ] [2023-03-15 22:46:12,258] Validate - Step 03: Validate error message at First name textbox
+[INFO ] [2023-03-15 22:46:12,333]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 22:46:12,333] Validate - Step 04: Validate error message at Last name textbox
+[INFO ] [2023-03-15 22:46:12,410]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 22:46:12,410] Validate - Step 05: Validate error message at Email textbox
+[INFO ] [2023-03-15 22:46:12,491]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 22:46:12,491] Validate - Step 06: Validate error message at Password textbox
+[INFO ] [2023-03-15 22:46:12,570]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 22:46:12,570] Validate - Step 07: Validate error message at Confirm Password textbox
+[INFO ] [2023-03-15 22:46:12,646]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 22:46:12,722] Register - Step 01: Refresh the Register page
+[INFO ] [2023-03-15 22:46:12,740] Register - Step 02: click to Radio button
+[INFO ] [2023-03-15 22:46:13,214] Register - Step 03: Input to FirstName with valueAnton
+[INFO ] [2023-03-15 22:46:13,383] Register - Step 04: Input to LastName with valueDare
+[INFO ] [2023-03-15 22:46:13,559] Register - Step 05: Select dropdown with value: 19
+[INFO ] [2023-03-15 22:46:13,710] Register - Step 06: Select dropdown with value: March
+[INFO ] [2023-03-15 22:46:13,864] Register - Step 07: Select dropdown with value: 1987
+[INFO ] [2023-03-15 22:46:14,023] Register - Step 08: Input to Email with valueSelenium40320@testing.com
+[INFO ] [2023-03-15 22:46:14,221] Register - Step 09: Input to Password Textbox with value: q1d6zc5bie6
+[INFO ] [2023-03-15 22:46:14,572] Register - Step 10: Click to Register button at Register page
+[INFO ] [2023-03-15 22:46:15,384] Register - Step 11: Verify Success message displayed
+[INFO ] [2023-03-15 22:46:15,472]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 22:46:15,472] Register - Step 12: Click to Continue button at Register page and navigate to Home page
+[INFO ] [2023-03-15 22:46:15,904] Login - Step 01: Open Login Link At Home Page
+[INFO ] [2023-03-15 22:46:16,367] Login - Step 02: Input to Email textbox with value: Selenium40320@testing.com
+[INFO ] [2023-03-15 22:46:16,531] Login - Step 03: Input to Email textbox with value: q1d6zc5bie6
+[INFO ] [2023-03-15 22:46:16,692] Login - Step 04: Click to Login button at Login page
+[INFO ] [2023-03-15 22:46:17,466] Login - Step 05: Verify My Account link displayed
+[INFO ] [2023-03-15 22:46:17,546]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 23:14:18,321] Validate - Step 01: Open Register Link at Home Page
+[INFO ] [2023-03-15 23:14:19,509] Validate - Step 02: Click to Register button
+[INFO ] [2023-03-15 23:14:19,666] Validate - Step 03: Validate error message at First name textbox
+[INFO ] [2023-03-15 23:14:19,757]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 23:14:19,757] Validate - Step 04: Validate error message at Last name textbox
+[INFO ] [2023-03-15 23:14:19,834]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 23:14:19,835] Validate - Step 05: Validate error message at Email textbox
+[INFO ] [2023-03-15 23:14:19,929]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 23:14:19,929] Validate - Step 06: Validate error message at Password textbox
+[INFO ] [2023-03-15 23:14:20,008]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 23:14:20,008] Validate - Step 07: Validate error message at Confirm Password textbox
+[INFO ] [2023-03-15 23:14:20,088]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 23:14:20,224] Register - Step 01: Refresh the Register page
+[INFO ] [2023-03-15 23:14:20,245] Register - Step 02: click to Radio button
+[INFO ] [2023-03-15 23:14:21,254] Register - Step 03: Input to FirstName with valueAlphonso
+[INFO ] [2023-03-15 23:14:21,431] Register - Step 04: Input to LastName with valueWehner
+[INFO ] [2023-03-15 23:14:21,613] Register - Step 05: Select dropdown with value: 19
+[INFO ] [2023-03-15 23:14:21,791] Register - Step 06: Select dropdown with value: March
+[INFO ] [2023-03-15 23:14:21,947] Register - Step 07: Select dropdown with value: 1987
+[INFO ] [2023-03-15 23:14:22,092] Register - Step 08: Input to Email with valueSelenium4452@testing.com
+[INFO ] [2023-03-15 23:14:22,283] Register - Step 09: Input to Password Textbox with value: 7qbppy4llbmbdqc
+[INFO ] [2023-03-15 23:14:22,644] Register - Step 10: Click to Register button at Register page
+[INFO ] [2023-03-15 23:14:24,437] Register - Step 11: Verify Success message displayed
+[INFO ] [2023-03-15 23:14:24,523]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-15 23:14:24,523] Register - Step 12: Click to Continue button at Register page and navigate to Home page
+[INFO ] [2023-03-15 23:14:24,988] Login - Step 01: Open Login Link At Home Page
+[INFO ] [2023-03-15 23:14:25,487] Login - Step 02: Input to Email textbox with value: Selenium4452@testing.com
+[INFO ] [2023-03-15 23:14:25,654] Login - Step 03: Input to Email textbox with value: 7qbppy4llbmbdqc
+[INFO ] [2023-03-15 23:14:25,816] Login - Step 04: Click to Login button at Login page
+[INFO ] [2023-03-15 23:14:26,632] Login - Step 05: Verify My Account link displayed
+[INFO ] [2023-03-15 23:14:26,709]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-30 17:42:25,681] Validate - Step 01: Open Register Link at Home Page
+[INFO ] [2023-03-30 17:42:26,876] Validate - Step 02: Click to Register button
+[INFO ] [2023-03-30 17:42:27,034] Validate - Step 03: Validate error message at First name textbox
+[INFO ] [2023-03-30 17:42:27,126]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-30 17:42:27,126] Validate - Step 04: Validate error message at Last name textbox
+[INFO ] [2023-03-30 17:42:27,361]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-30 17:42:27,361] Validate - Step 05: Validate error message at Email textbox
+[INFO ] [2023-03-30 17:42:27,439]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-30 17:42:27,439] Validate - Step 06: Validate error message at Password textbox
+[INFO ] [2023-03-30 17:42:27,515]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-30 17:42:27,516] Validate - Step 07: Validate error message at Confirm Password textbox
+[INFO ] [2023-03-30 17:42:27,595]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-30 17:42:27,720] Register - Step 01: Refresh the Register page
+[INFO ] [2023-03-30 17:42:27,739] Register - Step 02: click to Radio button
+[INFO ] [2023-03-30 17:42:28,250] Register - Step 03: Input to FirstName with valueLena
+[INFO ] [2023-03-30 17:42:28,413] Register - Step 04: Input to LastName with valueGoldner
+[INFO ] [2023-03-30 17:42:28,593] Register - Step 05: Select dropdown with value: 19
+[INFO ] [2023-03-30 17:42:28,760] Register - Step 06: Select dropdown with value: March
+[INFO ] [2023-03-30 17:42:28,917] Register - Step 07: Select dropdown with value: 1987
+[INFO ] [2023-03-30 17:42:29,075] Register - Step 08: Input to Email with valueSelenium36616@testing.com
+[INFO ] [2023-03-30 17:42:29,269] Register - Step 09: Input to Password Textbox with value: smi1tor3gc5t1o7
+[INFO ] [2023-03-30 17:42:29,642] Register - Step 10: Click to Register button at Register page
+[INFO ] [2023-03-30 17:42:30,421] Register - Step 11: Verify Success message displayed
+[INFO ] [2023-03-30 17:42:30,500]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-03-30 17:42:30,500] Register - Step 12: Click to Continue button at Register page and navigate to Home page
+[INFO ] [2023-03-30 17:42:30,956] Login - Step 01: Open Login Link At Home Page
+[INFO ] [2023-03-30 17:42:31,421] Login - Step 02: Input to Email textbox with value: Selenium36616@testing.com
+[INFO ] [2023-03-30 17:42:31,581] Login - Step 03: Input to Email textbox with value: smi1tor3gc5t1o7
+[INFO ] [2023-03-30 17:42:31,744] Login - Step 04: Click to Login button at Login page
+[INFO ] [2023-03-30 17:42:32,517] Login - Step 05: Verify My Account link displayed
+[INFO ] [2023-03-30 17:42:32,606]  -------------------------- PASSED -------------------------- 
